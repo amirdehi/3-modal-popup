@@ -39,4 +39,4 @@ CSS: Styling for the modal, overlay, and animations.
 JavaScript: Handle the logic for opening, closing, and dynamic content display.
 
 ## Sample Image:
-![Responsive Navigation Bar Sample](https://amirdehi.ir/wp-content/uploads/2024/12/responsive-nav-bar.jpg)
+![Responsive Navigation Bar Sample](https://amirdehi.ir/wp-content/uploads/2024/12/modal-popup.jpg)
